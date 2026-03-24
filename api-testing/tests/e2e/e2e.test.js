@@ -88,4 +88,3 @@ describe("SauceDemo User Scenarios", () => {
     expect(cartItemName.length).toBeGreaterThan(0);
   });
 });
-x``
