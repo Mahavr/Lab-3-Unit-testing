@@ -3,7 +3,8 @@
     "@babel/core": "^7.29.0",
     "@babel/preset-env": "^7.29.2",
     "babel-jest": "^30.3.0",
-    "jest": "^30.3.0"
+    "jest": "^30.3.0",
+    "puppeteer": "^24.40.0"
   },
   "jest": {
     "transform": {
